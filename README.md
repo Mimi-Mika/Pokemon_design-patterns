@@ -1,4 +1,4 @@
-# Pokemon_design-patterns
+# Design Patterns
 
  ## Exercice 1
 
