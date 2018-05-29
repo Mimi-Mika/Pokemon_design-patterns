@@ -14,3 +14,8 @@ Oui, car si un pokémon est K.O., l'énergie n’est pas détruite, elle est con
 
 ## TP 2 : Factory Method et Adapter
 
+1) Quels sont les problèmes engendrés par cette solution ?
+La méthode "affiche()" est utilisé dans plusieurs classes, ce qui crée une redondance dans le diagramme, il n'y a pas d'instanciation dynamique et il y a trop de dépendances.
+
+2) Quels sont les problèmes engendrés par cette solution ?
+Ce n’est pas propre d’implémenter une nouvelle logique sur une logique déjà existante.
