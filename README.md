@@ -1,6 +1,6 @@
 # Design Patterns
 
- ## Exercice 1 : Pokémon
+## TP 1 : Pokémon
 
 1) Quel sont les problèmes engendrés par l’implémentation du code de chaque attaque dans la classe ?
 Si plusieurs classes ont la même attaque, nous allons avoir une duplication inutile du même code/méthode dans chaque classe.
@@ -12,5 +12,5 @@ Il faut faire une classe pour chaque association possible, ce qui est long, lour
 Oui, car si un pokémon est K.O., l'énergie n’est pas détruite, elle est conservé.
 
 
-## Exercice 2 : Factory Method et Adapter
+## TP 2 : Factory Method et Adapter
 
